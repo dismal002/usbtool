@@ -41,7 +41,7 @@
     "file": "chromeos_9334.41.3_gale_recovery_stable-channel_mp.bin",
     "filesize": 1843363840,
     "hwidmatch": "^Game .*",
-    "manufacturer": "Google Chrome,
+    "manufacturer": "Google Chrome",
     "md5": "117e4a78034e213973ccf45dbe217ef3",
     "model": "ChromeOS",
     "name": "ChromeOS",
