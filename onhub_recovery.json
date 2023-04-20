@@ -143,22 +143,4 @@
     "zipfilesize": 74599736,
     "hwids": []
   }
-   {
-    "channel": "stable-channel",
-    "desc": "",
-    "file": "20230102_raspi_4_bullseye.img.xz",
-    "filesize": 1843363840,
-    "hwidmatch": "^RPIOS4 .*",
-    "manufacturer": "OS for Raspberry Pi",
-    "md5": "6d6ddeeeb4b0e1bd812e4cacd3ae5eb8",
-    "model": "Raspberry Pi OS Pi 4",
-    "name": "Raspberry Pi OS Pi 4",
-    "photourl": "",
-    "sha1": "f900039b2e2dfead9f21734e243abf32b68a3872",
-    "sku": "",
-    "url": "https://raspi.debian.net/tested/20230102_raspi_4_bullseye.img.xz",
-    "version": "9334.41.3",
-    "zipfilesize": 74599736,
-    "hwids": []
-  }
 ]
