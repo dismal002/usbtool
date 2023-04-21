@@ -3,7 +3,7 @@
     "channel": "stable-channel",
     "desc": "",
     "file": "android-x86-5.1-rc1.iso",
-    "filesize": 385,
+    "filesize": 358,
     "hwidmatch": "^Ax865.1 .*",
     "manufacturer": "Android X86",
     "md5": "fa7d58ce19f859c50376516ec63efa55",
@@ -14,7 +14,7 @@
     "sku": "",
     "url": "https://lightgrayimpolitevisitor.dismal2.repl.co/android-x86-5.1-rc1.iso",
     "version": "",
-    "zipfilesize": 385,
+    "zipfilesize": 358,
     "hwids": []
   },
   {
