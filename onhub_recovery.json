@@ -2,19 +2,19 @@
   {
     "channel": "stable-channel",
     "desc": "",
-    "file": "chromeos_9334.41.3_arkham_recovery_stable-channel_mp.bin",
+    "file": "android-x86-5.1-rc1.iso",
     "filesize": 1843363840,
     "hwidmatch": "^ARKHAM .*",
     "manufacturer": "Android X86",
-    "md5": "cba0a20c84847fc1e84f007835dfb935",
+    "md5": "fa7d58ce19f859c50376516ec63efa55",
     "model": "Ax865.1",
     "name": "Android X86 5.1",
     "photourl": "",
-    "sha1": "17d027c79d4dda386ff31e206a751f53c4ea9880",
+    "sha1": "33d1489195e8ca3e9b9c253848181e9cb5b311bf",
     "sku": "",
     "url": "https://osdn.net/projects/android-x86/downloads/65697/android-x86-5.1-rc1.iso/",
     "version": "9334.41.3",
-    "zipfilesize": 70276050,
+    "zipfilesize": 385,
     "hwids": []
   },
   {
