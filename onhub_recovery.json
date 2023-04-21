@@ -2,16 +2,16 @@
   {
     "channel": "stable-channel",
     "desc": "",
-    "filesize": 385,
-    "file": "android-x86-5.1-rc1.iso",
+    "filesize": 861,
+    "file": "android-x86_64-8.1-r3-k49.iso",
     "hwidmatch": "^GALE .*",
     "manufacturer": "Android x86",
     "model": "Android x86 5.1",
     "name": "Android x86 5.1",
     "photourl": "",
     "sku": "",
-    "zipfilesize": 385,
-    "url": "https://lightgrayimpolitevisitor.dismal2.repl.co/android-x86-5.1-rc1.iso",
+    "zipfilesize": 861,
+    "url": "https://archive.org/download/sjarb_android_8.1r3/android-x86_64-8.1-r3-k49.iso",
     "hwids": []
   },
   {
