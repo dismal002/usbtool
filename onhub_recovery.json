@@ -2,6 +2,7 @@
   {
     "channel": "stable-channel",
     "desc": "",
+    "filesize": 385,
     "file": "android-x86-5.1-rc1.iso",
     "hwidmatch": "^GALE .*",
     "manufacturer": "Android x86",
@@ -9,6 +10,7 @@
     "name": "Android x86 5.1",
     "photourl": "",
     "sku": "",
+    "zipfilesize": 385,
     "url": "https://lightgrayimpolitevisitor.dismal2.repl.co/android-x86-5.1-rc1.iso",
     "hwids": []
   },
