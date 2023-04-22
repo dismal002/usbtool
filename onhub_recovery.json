@@ -149,6 +149,21 @@
     "url": "https://cdimage.ubuntu.com/releases/22.04.2/release/ubuntu-22.04.2-preinstalled-desktop-arm64+raspi.img.xz",
     "hwids": []
   },
+   {
+    "channel": "stable-channel",
+    "desc": "",
+    "filesize": 1000,
+    "file": "Fedora-Server-36-1.5.armhfp.raw.xz",
+    "hwidmatch": "^RAMUEZET .*",
+    "manufacturer": "OS for Raspberry Pi",
+    "model": "Fedora Server 36 for Raspberry Pi 4",
+    "name": "Fedora Server 36 for Raspberry Pi 4",
+    "photourl": "",
+    "sku": "",
+    "zipfilesize": 507,
+    "url": "https://download.fedoraproject.org/pub/fedora/linux/releases/36/Server/armhfp/images/Fedora-Server-36-1.5.armhfp.raw.xz",
+    "hwids": []
+  },
   {
     "channel": "STABLE",
     "desc": "",
@@ -158,7 +173,7 @@
     "manufacturer": "Google ChromeOS Flex",
     "md5": "5d9afc6eb236b0755898556acd1be7f6",
     "model": "ChromeOS Flex",
-    "name": "ChromeOS Flexs",
+    "name": "ChromeOS Flex",
     "photourl": "",
     "sha1": "489954983b410937f6f6e58fd54551775d446ffa",
     "sku": "",
@@ -166,21 +181,6 @@
     "version": "15278.64.0",
     "zipfilesize": 1214645037,
     "chrome_version": "110.0.5481.112",
-    "hwids": []
-  },
-  {
-    "channel": "stable-channel",
-    "desc": "",
-    "file": "chromeos_9334.41.3_whirlwind_recovery_stable-channel_mp.bin",
-    "filesize": 1843363840,
-    "hwidmatch": "^WHIRLWIND .*",
-    "manufacturer": "OS for Raspberry Pi",
-    "model": "Debian 11",
-    "name": "OnHub TGR 1900",
-    "photourl": "",
-    "sku": "",
-    "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_9334.41.3_whirlwind_recovery_stable-channel_mp.bin.zip",
-    "zipfilesize": 74599736,
     "hwids": []
   }
 ]
