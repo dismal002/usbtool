@@ -94,7 +94,7 @@
     "desc": "",
     "filesize": 909.1,
     "file": "20230102_raspi_4_bullseye.img.xz",
-    "hwidmatch": "^MANE .*",
+    "hwidmatch": "^RANE .*",
     "manufacturer": "OS for Raspberry Pi",
     "model": "Retropie Pi 4",
     "name": "Retropie Pi 4",
