@@ -74,6 +74,36 @@
     "url": "https://archive.org/download/sjarb_android_9.0RC1/android-x86_64-9.0-rc1.iso",
     "hwids": []
   },
+   {
+    "channel": "stable-channel",
+    "desc": "",
+    "filesize": 382.17,
+    "file": "20230102_raspi_4_bullseye.img.xz",
+    "hwidmatch": "^MANE .*",
+    "manufacturer": "OS for Raspberry Pi",
+    "model": "Debian 11",
+    "name": "Debian 11",
+    "photourl": "",
+    "sku": "",
+    "zipfilesize": 382.17,
+    "url": "https://raspi.debian.net/tested/20230102_raspi_4_bullseye.img.xz",
+    "hwids": []
+  },
+  {
+    "channel": "stable-channel",
+    "desc": "",
+    "filesize": 909.1,
+    "file": "20230102_raspi_4_bullseye.img.xz",
+    "hwidmatch": "^MANE .*",
+    "manufacturer": "OS for Raspberry Pi",
+    "model": "Retropie Pi 4",
+    "name": "Retropie Pi 4",
+    "photourl": "",
+    "sku": "",
+    "zipfilesize": 909.1,
+    "url": "https://github.com/RetroPie/RetroPie-Setup/releases/download/4.8/retropie-buster-4.8-rpi4_400.img.gz",
+    "hwids": []
+  },
   {
     "channel": "STABLE",
     "desc": "",
