@@ -152,6 +152,21 @@
    {
     "channel": "stable-channel",
     "desc": "",
+    "filesize": 5000,
+    "file": "AOSP13-20230412-KonstaKANG-rpi4.zip",
+    "hwidmatch": "^RAMUEZL .*",
+    "manufacturer": "OS for Raspberry Pi",
+    "model": "Android AOSP 13 for Raspberry Pi 4",
+    "name": "Android AOSP 13 Raspberry Pi 4",
+    "photourl": "",
+    "sku": "",
+    "zipfilesize": 670,
+    "url": "https://mde1.androidfilehost.com/dl/GCKyxh2SF2GN6INNDAwNCg/1682217014/4279422670115735134/AOSP13-20230412-KonstaKANG-rpi4.zip",
+    "hwids": []
+  },
+   {
+    "channel": "stable-channel",
+    "desc": "",
     "filesize": 1000,
     "file": "Fedora-Server-36-1.5.armhfp.raw.xz",
     "hwidmatch": "^RAMUEZET .*",
