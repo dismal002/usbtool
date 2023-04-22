@@ -15,6 +15,21 @@
     "hwids": []
   },
   {
+    "channel": "stable-channel",
+    "desc": "",
+    "filesize": 861,
+    "file": "android-x86-7.1-r1.iso",
+    "hwidmatch": "^GARE .*",
+    "manufacturer": "Android x86",
+    "model": "Android x86 7.1",
+    "name": "Android x86 7.1",
+    "photourl": "",
+    "sku": "",
+    "zipfilesize": 861,
+    "url": "https://osdn.net/projects/android-x86/downloads/67834/android-x86-7.1-r1.iso/",
+    "hwids": []
+  },
+  {
     "channel": "STABLE",
     "desc": "",
     "file": "chromeos_15278.64.0_reven_recovery_stable-channel_mp-v2.bin",
@@ -22,7 +37,7 @@
     "hwidmatch": "^REVEN($|-.*)",
     "manufacturer": "Google ChromeOS Flex",
     "md5": "5d9afc6eb236b0755898556acd1be7f6",
-    "model": "ChromeOS Flexs",
+    "model": "ChromeOS Flex",
     "name": "ChromeOS Flexs",
     "photourl": "",
     "sha1": "489954983b410937f6f6e58fd54551775d446ffa",
@@ -40,14 +55,11 @@
     "filesize": 1843363840,
     "hwidmatch": "^WHIRLWIND .*",
     "manufacturer": "OS for Raspberry Pi",
-    "md5": "6d6ddeeeb4b0e1bd812e4cacd3ae5eb8",
-    "model": "OnHub TGR 1900",
+    "model": "Debian 11",
     "name": "OnHub TGR 1900",
     "photourl": "",
-    "sha1": "f900039b2e2dfead9f21734e243abf32b68a3872",
     "sku": "",
     "url": "https://dl.google.com/dl/edgedl/chromeos/recovery/chromeos_9334.41.3_whirlwind_recovery_stable-channel_mp.bin.zip",
-    "version": "9334.41.3",
     "zipfilesize": 74599736,
     "hwids": []
   }
