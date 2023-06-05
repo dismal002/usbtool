@@ -17,6 +17,21 @@
   {
     "channel": "stable-channel",
     "desc": "",
+    "filesize": 450.9,
+    "file": "android-x86-5.1-rc1.iso",
+    "hwidmatch": "^DEBIAN .*",
+    "manufacturer": "Debian",
+    "model": "Debian",
+    "name": "Debian",
+    "photourl": "",
+    "sku": "",
+    "zipfilesize": 450.9,
+    "url": "https://cdimage.debian.org/cdimage/weekly-builds/amd64/iso-cd/debian-testing-amd64-netinst.iso",
+    "hwids": []
+  },
+  {
+    "channel": "stable-channel",
+    "desc": "",
     "filesize": 646,
     "file": "android-x86-6.0-rc2.iso",
     "hwidmatch": "^GAPE .*",
