@@ -1,4 +1,4 @@
-## USB Creator  Pro
+## USB Creator Pro
 
 USB Creator Pro is a modified version of the [Chromebook Recovery Utility](https://chromewebstore.google.com/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en) used to recover Chromebooks in an inoperable state.  USB Creator Pro allows the use of a remote file specifying available images, allowing (format described below). USB Creator Pro also allows the use of 'bin', 'zip', 'tar', 'xz', 'iso' , and  'img' file types without renaming.
 
