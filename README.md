@@ -11,7 +11,7 @@ function getAppConfigForOnHub_() {
  return {
    messageCatalogPostfix: '_ON_HUB',
    recovery_config_urls: [
-     'https://raw.githubusercontent.com/dismal002/usbtool/refs/heads/main/onhu>
+     'https://raw.githubusercontent.com/dismal002/usbtool/refs/heads/main/onhub_recovery.json'
    ],
 ```
 This is the format that should be used on the remote server note that the zipfilesize and filsize checks are not case sensitive.
